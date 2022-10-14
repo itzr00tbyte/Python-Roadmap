@@ -32,7 +32,7 @@
 
 <details>
    <summary>Day 0</summary>
-   <ul>
+<ul>
    <br>
    <li><h3>Installation & Setup </h3></li>
    <i>I Suggest You To Use The Following Environment To Practice And Understand The Python Concept Easy Way</i>
@@ -60,5 +60,36 @@ OUTPUT :
 My Name Is Bobby
 My Age Is 21
 ```
+</ul>
 </details>
-<p>+=========================================+</p>
+
+<details open>
+      <summary>Day 1</summary>
+      <br>
+         <h3>What Is A Variable ?</h3>
+         <b><i>A Variable is like a container which stores data in it and we can access that data by using the container label</i></b><br>
+         <img src="asserts/variable.svg" alt="">
+         <center>
+<h1>a = 5 </h1>
+         </center><br>
+<ul>
+<h1>Rule Of Variable's</h1>
+<li>Variable names are case-sensitive (age, Age and AGE are three different variables)</li>
+<li>A variable name cannot start with a number </li>
+<li>A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )</li>
+<li>A variable name must start with a letter or the underscore character</li>
+</ul>
+
+```python
+variable_name = "Variable Value" # ====> Must Use " " For Value Declaration
+
+my_name = "Mr RoBoT" # We Declared A Variable 
+
+#accessing Varible Data 
+
+print(my_name) #Dont Use " " Here While Calling Variable
+
+```
+</details>
+
+
