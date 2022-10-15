@@ -63,7 +63,7 @@ My Age Is 21
 </ul>
 </details>
 
-<details open>
+<details>
       <summary>Day 1</summary>
       <br>
          <h3>What Is A Variable ?</h3>
@@ -91,5 +91,56 @@ print(my_name) #Dont Use " " Here While Calling Variable
 
 ```
 </details>
+
+<details open>
+   <summary>Day 03</summary>
+   <ul>
+      <li><h2>What Is Data Types ?</h2></li>
+<i>In programming, data type is an important concept . It represents the kind of value that tells what operations can be performed on a particular data.Simply Data Type Represent's The Work And Significance of a value .</i>
+
+<br>
+<li><h2>Data Types</h2></li>
+<ul>
+<li><b>String : </b> A string is a collection of one or more characters put in a single quote, double-quote or triple quote</li>
+<li><b>Integer : It contains positive or negative whole numbers (without fraction or decimal). </b></li>
+<li><b>Float : It is a real number with floating point representation. It is specified by a decimal point</b></li>
+<li><b>Boolean : Data type with one of the two built-in values, True or False. </b></li>
+
+</ul>
+<br>
+
+
+## Lets See Some Simple Day To Day Life Examples 
+<ul>
+<li>My Name Is <code>Bobby</code> == > Here Bobby is Considerd as String</li>
+<li>From here Goa is <code>934</code> km == > Here 934 is Integer Value</li>
+<li>I Got <code>88.93</code>% In Last Exam == > Here is Float Value</li>
+<li>Does He Above 18 Years ? <code>true</code> == > True is a Boolean Value</li>
+</ul>
+<br>
+
+## Basic Varible Data Type 
+```python
+ Name = "Bobby"  #string (str) 
+ Number = 10  #integer (int) 
+ Float_Number = 88.93  #float 
+ Value = True  #boolean #(bool) 
+ ```
+</ul>
+
+# <b>Sample Code Try To Play By Changing Values</b>
+```python 
+#Change This Values & Play As You Can
+Name = "Bobby"
+Age = 21
+Marks = 8.5
+
+# Dont Change This 
+print("My Name " , Name , "My Age Is " , Age , "I Scored " , Marks )
+```
+<br>
+<img src="asserts\Python-data-structure.jpg" alt="">
+</details>
+
 
 
