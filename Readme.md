@@ -93,7 +93,7 @@ print(my_name) #Dont Use " " Here While Calling Variable
 </details>
 
 <details open>
-   <summary>Day 03</summary>
+   <summary>Day 02</summary>
    <ul>
       <li><h2>What Is Data Types ?</h2></li>
 <i>In programming, data type is an important concept . It represents the kind of value that tells what operations can be performed on a particular data.Simply Data Type Represent's The Work And Significance of a value .</i>
