@@ -63,7 +63,7 @@ My Age Is 21
 </ul>
 </details>
 
-<details>
+<details open>
       <summary>Day 1</summary>
       <br>
          <h3>What Is A Variable ?</h3>
